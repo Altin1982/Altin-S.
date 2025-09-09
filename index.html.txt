@@ -66,6 +66,7 @@
       <h2>Rreth Meje</h2>Infemier Profesionist
       <p>Jam [shkruaj pak për veten tënde: profesioni, hobi, pasionet].</p>
     </div>
+<li>Kam marrë pjesë në Kongresin Boteror te Neuro-Reabilitimit (2009)</li>
 
     <div class="card">
       <h2>Projektet e Mia</h2>Infermieret e Diaspores
@@ -83,3 +84,4 @@
   </footer>
 </body>
 </html>
+
